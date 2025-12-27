@@ -33,3 +33,8 @@ if __name__ == "__main__":
     print("Hello, Git!")
     # Appel de la fonction créée à l'étape III.2
     acces_netmiko()
+    . Modifiez 
+main.py pour ajouter une fonction qui dit salut.
+def dire_salut(): 
+print("Salut, Git!") 
+dire_salut()
